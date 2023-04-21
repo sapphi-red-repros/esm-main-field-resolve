@@ -1,0 +1,7 @@
+{
+  "name": "pkg",
+  "type": "module",
+  "dependencies": {
+    "pkg2": "file:../pkg2"
+  }
+}
